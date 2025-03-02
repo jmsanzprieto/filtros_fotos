@@ -2,6 +2,8 @@
 
 Este proyecto utiliza FastAPI para crear una API web que aplica filtros fotográficos analógicos a imágenes subidas por el usuario. Los filtros incluyen simulaciones de los famosos filmes fotográficos: Kodak Portra 400, Fujifilm Pro 400H, Ilford HP5 Plus 400 y Kodak Tri-X 400.
 
+![Texto alternativo](pantallazo.jpg)
+
 ## Requisitos
 
 - Python 3.7 o superior
