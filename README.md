@@ -78,25 +78,6 @@ filtros-analogicos/
 └── README.md            # Este archivo
 ```
 
-## Contribuir
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una rama con tu nueva funcionalidad:
-   ```bash
-   git checkout -b nueva-funcionalidad
-   ```
-3. Realiza tus cambios y haz commit:
-   ```bash
-   git commit -m "Agregada nueva funcionalidad"
-   ```
-4. Sube tus cambios a tu repositorio:
-   ```bash
-   git push origin nueva-funcionalidad
-   ```
-5. Abre un Pull Request en este repositorio.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
